@@ -1,0 +1,23 @@
+body{
+   
+    flex-direction: row;
+}
+
+.alumna {
+color:red;
+}
+.alumna:hover {
+    background: grey;
+}
+.Duccio {
+    width: 50%;
+    display: block;
+}
+button {
+  border-radius: 20px;
+  color:black;
+  display: inline-block;
+  margin-bottom: 1em;
+  padding: 20px 40px;
+  text-decoration: ;
+}

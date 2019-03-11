@@ -1,0 +1,10 @@
+.container{
+display: flex;
+height: 100px;
+list-style: none;
+justify-content: space-between;
+padding: 0 20p;
+background: grey;
+align-items: center;
+
+}

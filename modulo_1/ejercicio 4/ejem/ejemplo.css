@@ -1,0 +1,22 @@
+.menu__list{
+    margin:0;
+    list-style: none;
+    padding: 0;
+    background: grey;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__item{
+    background: cyan;
+    flex-grow:1;
+}
+
+.menu__link{
+    background: red;
+    display: block;
+    text-align: center;
+}
+.menu__item:nth-child(2n) .menu__link{
+    background: green;
+}

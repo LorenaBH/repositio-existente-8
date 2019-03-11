@@ -1,0 +1,12 @@
+.cabecera {
+background: purple;
+position: fixed;
+height: 40px;
+width: 100%;
+z-index: 1;
+}
+
+.texto {
+    top:50px;
+  position: relative;
+}
